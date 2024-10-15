@@ -1,0 +1,1 @@
+export const LISTA=[false,true,false,false,true,false,true,false,true];
